@@ -1,0 +1,32 @@
+joseph-michael-lung/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── autobiography/
+│   ├── timeline.md
+│   ├── early-childhood.md
+│   ├── elementary-school.md
+│   ├── middle-school.md
+│   ├── high-school.md
+│   ├── adulthood.md
+│   ├── music.md
+│   ├── dreams.md
+│   ├── lessons.md
+│   └── legacy.md
+│
+├── journal/
+│   ├── 2026/
+│   ├── 2027/
+│   └── ...
+│
+├── achievements/
+│   ├── education.md
+│   ├── music.md
+│   ├── career.md
+│   └── philanthropy.md
+│
+├── photos/
+│
+└── documents/
