@@ -37,4 +37,4 @@ documents/
 
 ---
 
-*"Life is written one day at a time."*tinuously updated as life unfolds.
+*"Life is written one day at a time."*continuously updated as life unfolds.
