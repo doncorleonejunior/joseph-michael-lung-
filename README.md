@@ -1,48 +1,40 @@
 # Joseph Michael Lung
 
-> *A Living Autobiography*
+## Living Autobiography
 
-## About
+Welcome to my personal autobiography.
 
-Welcome.
+Rather than writing my life after it has already happened, this repository documents my life as it unfolds.
 
-My name is **Joseph Michael Lung**. I was born on **November 21, 2000**.
-
-This repository is my personal autobiography. Instead of writing my life in one book after everything has happened, I'm documenting it as I live it.
-
-Every update is another chapter.
+Every commit represents another page in my story.
 
 ## Mission
 
-To tell my story honestly.
-
-To document my growth.
-
-To preserve my memories.
-
-To inspire others through my successes, failures, and lessons.
-
-## Current Journey
-
-- Building my music career
-- Growing as a person
-- Recording life's milestones
-- Working toward becoming a philanthropist
-
-## Repository Structure
-
-- **autobiography/** — My life story
-- **journal/** — Ongoing updates
-- **achievements/** — Important accomplishments
-- **assets/** — Photos and important files
-
-## Timeline
-
-- **2000** — Born
-- **Present** — Writing my story one commit at a time.
-
-> "The story isn't finished until the last page is written."
+- Preserve my memories
+- Share my journey honestly
+- Inspire others
+- Leave behind a complete record of my life
 
 ---
 
-This repository is continuously updated as life unfolds.
+## Repository Structure
+
+```text
+autobiography/
+journal/
+achievements/
+photos/
+documents/
+```
+
+---
+
+## Current Status
+
+- Building my autobiography
+- Developing my music career
+- Pursuing lifelong goals
+
+---
+
+*"Life is written one day at a time."*tinuously updated as life unfolds.
