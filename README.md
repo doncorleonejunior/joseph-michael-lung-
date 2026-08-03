@@ -1,6 +1,6 @@
 # Joseph Michael Lung
 
-## Living Autobiography
+## Professional American Singer/Songwriter
 
 Welcome to my personal autobiography.
 
